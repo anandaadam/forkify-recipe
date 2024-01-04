@@ -13,7 +13,7 @@ This is an application for search many delicious recipe. Just type the name of f
 - HTML
 - CSS
 - JavaScript
-- SASS CSS
+- Sass CSS
 
 ## System Requirement
 
@@ -23,14 +23,17 @@ This is an application for search many delicious recipe. Just type the name of f
 ## Instalation
 
 1. Clone this repository:
+
    ```bash
-   git clone [url-repositori]
+   git clone https://github.com/adamanandas/forkify-recipe.git
    ```
 2. Go to project directory:
+
    ```bash
-   cd directory-name
+   cd forkify-recipe
    ```
 3. Install dependencies:
+
    ```bash
    npm install
    ```
